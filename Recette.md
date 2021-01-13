@@ -5,9 +5,5 @@
 - 100g de chocolat noir
 - 1 cuillère à café de sel
 - 1 cuillère à café de levure chimique
-<<<<<<< HEAD
 
-Bon app
-
- c'est deg
->>>>>>> af4a2ec (bordel)
+DEGOUTANT
